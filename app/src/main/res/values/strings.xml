@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabExerciseMad</string>
+
+    #First Page
+    <string name="Title">House Loan Calculator</string>
+    <string name="Title2">Data Information</string>
+    <string name="Title3">Summary</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="HouseLoan">House Loan Price</string>
+    <string name="CoverageRequest">Your Coverage Request</string>
+</resources>
